@@ -1,4 +1,5 @@
-:nth-child(odd){
+.p1,.p2{
+
     background-color: lightpink; font-family: verdana, "Dejavu Sans", sans-serif;
 
 }
